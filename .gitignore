@@ -1,0 +1,7 @@
+*.cmp
+*.tst
+*.out
+*.dat
+*.sh
+
+tools/
