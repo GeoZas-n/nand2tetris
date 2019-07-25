@@ -5,3 +5,5 @@
 *.sh
 
 tools/
+*.dat
+tools/bin/Hardware Simulator.dat
